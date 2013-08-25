@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: lavluda, rajuru
+Contributors: Md.Sajedul Haque Romi, lavluda, rajuru
 Donate link: http://www.ekushey.org/
 Tags: keyboard, bangla, comment
 Requires at least: 2.5
