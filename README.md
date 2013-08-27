@@ -8,7 +8,9 @@ Its an updated version of the plugin http://wordpress.org/plugins/banglkb which 
 Installation
 ============
 Download the zip file and unzip and upload in wp-include/plugins folder.
+
 Go to your dashboard and install it via plugin installer. Done.
+
 You will see three new buttons (phonetic, provat, english) under comments area on the frondend & on the backend you will find similar three buttons when you create or edit posts and pages
 on TEXT mode.
 
